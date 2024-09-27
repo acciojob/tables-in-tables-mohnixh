@@ -1,2 +1,37 @@
+body {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 50px;
+}
 
-/* Your CSS Code here. */
+table {
+    border: 2px solid black;
+    margin: 20px auto;
+}
+
+table table {
+    border: 2px solid black;
+    margin: 30px ;
+   
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+   
+}
+
+.html{
+    background-color: black;
+    color: white;
+}
+.blue{
+    text-decoration: underline;
+    color: rgb(104, 59, 167);
+}
+
+.full{
+    width: 100%;
+    background-color: aqua;
+}
